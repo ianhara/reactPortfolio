@@ -4,7 +4,7 @@ function Navbar(){
         <div className="container">
 
             <a className="navbar-brand" href="#">
-                Ben Resume
+                Ian's Portfolio
             </a>
 
             <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -30,9 +30,6 @@ function Navbar(){
                     </li>
                 </ul>
 
-                <div className="mt-lg-0 mt-3 mb-4 mb-lg-0">
-                    <a href="#" className="custom-btn btn" download>Download CV</a>
-                </div>
             </div>
 
         </div>

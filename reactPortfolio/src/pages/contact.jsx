@@ -32,11 +32,11 @@ function Contact(){
             <div className="mx-auto col-lg-4 col-md-6 col-12">
                 <h3 className="my-4 pt-4 pt-lg-0">Say hello</h3>
 
-                <p className="mb-1">010-020-0340</p>
+                <p className="mb-1">919-824-6923</p>
 
                 <p>
                     <a href="#">
-                        hello@company.co
+                        ianhara97@gmail.com
                     <i className="fas fa-arrow-right custom-icon"></i>
                     </a>
                 </p>
@@ -49,7 +49,7 @@ function Contact(){
                     <li><a href="#" rel="noopener" className="fab fa-youtube"></a></li>
                 </ul>
                 
-              <p className="copyright-text mt-5 pt-3">Copyright &copy; 2020 Ben Resume Page</p>
+              <p className="copyright-text mt-5 pt-3">Copyright &copy; 2020 Ian Resume Page</p>
                 
                 <p>Design: <a href="https://www.tooplate.com" title="free HTML templates" target="_blank">Tooplate</a></p>
             </div>

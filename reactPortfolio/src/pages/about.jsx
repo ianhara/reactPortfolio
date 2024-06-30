@@ -27,16 +27,19 @@ function About() {
                 </div>
                 <div className="row about-third">
                     <div className="col-lg-4 col-md-4 col-12">
-                        <h3>Projects</h3>
-                        <p>Sed eu risus tincidunt, finibus dolor non, gravida ex. Donec lacinia mi nec erat tempus, vel consectetur ante scelerisque. Ut blandit, risus in venenatis ultricies, lacus tellus fermentum.</p>
+                        <h3>Skills</h3>
+                        <p>java JavaScript CSS HTML Bootstrap Jquery React MongoDB SQL </p>
                     </div>
                     <div className="col-lg-4 col-md-4 col-12">
-                        <h3>Development</h3>
-                        <p>Cras et nisl vestibulum, accumsan elit sed, pretium enim. Vestibulum in condimentum magna. Maecenas quam magna, iaculis eu turpis et, commodo pulvinar leo.</p>
+                        <h3>Employment</h3>
+                        <p>Computer Science student at UNCG 2018-2020
+                            Intern at TBM consulting firm as business analyst support.2021-2022.
+                            server in upscale dining 2022-Currently Employed
+                        </p>
                     </div>
                     <div className="col-lg-4 col-md-4 col-12">
-                        <h3>Capabilities</h3>
-                        <p>Duis at mollis leo, venenatis congue ex. Cras urna dui, gravida euismod lectus et, cursus tempor nulla. Praesent at turpis quis ex tristique gravida quis eget eros.</p>
+                        <h3>Hobbies/Interests</h3>
+                        <p>I am a rock climber and a skiier I love the outdoors and also enjoy long distance running.</p>
                     </div>
                 </div>
             </div>
