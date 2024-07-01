@@ -22,7 +22,7 @@ function Navbar(){
                     </li>
 
                     <li className="nav-item">
-                        <a href="#testimonials" className="nav-link smoothScroll">Reviews</a>
+                        <a href="#testimonials" className="nav-link smoothScroll">Work</a>
                     </li>
 
                     <li className="nav-item">

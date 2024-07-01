@@ -2,16 +2,18 @@ import ProjectItem from '../components/projectItem'
 
 const projectItems = [
     {
-        imageSrc: "images/Screenshot 2024-06-26 192614.png",
+        imageSrc: "images/weather-forecast.png",
         header: "Weather Forecast",
         subheader: "",
-        text: "This project displays my ability to use CSS, API's, and simple javascript to display the weather"
+        text: "This project displays my ability to use CSS, API's, and simple javascript to display the weather",
+        link:"https://ianhara.github.io/Weather/"
     },
     {
-        imageSrc: "images/testimonials/testimonial-image03.jpg",
-        header: "name of project",
-        subheader: "Product Manager",
-        text: "this will be a different project"
+        imageSrc: "images/e-auto-care.png",
+        header: "E-Auto-Care",
+        subheader: "full stack car service scheduling platform",
+        text: "leveraging mysql for database users can log in and view their profile and vehicles with services and appointment times",
+        link: "https://e-auto-care-6acb9e4162bf.herokuapp.com/"
     },
     {
         imageSrc: "images/testimonials/testimonial-image03.jpg",
@@ -37,11 +39,8 @@ function Projects() {
                             {
                                 projectItems.map((p,i) =>
                                     <ProjectItem
-                                        key={i}
-                                        imageSrc={p.imageSrc}
-                                        header={p.header}
-                                        subheader={p.subheader}
-                                        text={p.text}
+                                    key={i}
+                                        {...p}
                                     />
                                 )
                             }

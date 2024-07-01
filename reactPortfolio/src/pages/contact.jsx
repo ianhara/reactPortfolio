@@ -42,16 +42,16 @@ function Contact(){
                 </p>
 
                 <ul className="social-links mt-2">
-                    <li><a href="https://fb.com/tooplate" rel="noopener" className="fab fa-facebook"></a></li>
-                    <li><a href="#" rel="noopener" className="fab fa-twitter"></a></li>
-                    <li><a href="#" rel="noopener" className="fab fa-instagram"></a></li>
-                    <li><a href="#" rel="noopener" className="fab fa-linkedin"></a></li>
-                    <li><a href="#" rel="noopener" className="fab fa-youtube"></a></li>
-                </ul>
-                
+    <li><a href="https://fb.com/tooplate" rel="noopener" className="fab fa-facebook"></a></li>
+    <li><a href="#" rel="noopener" className="fab fa-twitter"></a></li>
+    <li><a href="#" rel="noopener" className="fab fa-instagram"></a></li>
+    <li><a href="https://www.linkedin.com/in/ian-h-62737230a/" rel="noopener" className="fab fa-linkedin"></a></li>
+    <li><a href="#" rel="noopener" className="fab fa-youtube"></a></li>
+</ul>
+
               <p className="copyright-text mt-5 pt-3">Copyright &copy; 2020 Ian Resume Page</p>
                 
-                <p>Design: <a href="https://www.tooplate.com" title="free HTML templates" target="_blank">Tooplate</a></p>
+                
             </div>
 
         </div>

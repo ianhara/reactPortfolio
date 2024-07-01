@@ -15,7 +15,7 @@ function Head(){
                    <h1 className="hero-title">👋 Ian, a digital nomad</h1>
 
                    <a href="#" className="email-link">
-                       hello@company.co
+                       ianhara97@gmail.com
                    </a>
                  
                </div>
