@@ -10,19 +10,19 @@ function Contact(){
                 <div className="form-group d-flex flex-column-reverse">
                     <input type="text" className="form-control" name="cf-name" id="cf-name" placeholder="Your Name"/>
 
-                    <label for="cf-name" className="webform-label">Full Name</label>
+                    <label htmlFor="cf-name" className="webform-label">Full Name</label>
                 </div>
 
                 <div className="form-group d-flex flex-column-reverse">
                     <input type="email" className="form-control" name="cf-email" id="cf-email" placeholder="Your Email"/>
 
-                    <label for="cf-email" className="webform-label">Your Email</label>
+                    <label htmlFor="cf-email" className="webform-label">Your Email</label>
                 </div>
 
                 <div className="form-group d-flex flex-column-reverse">
                     <textarea className="form-control" rows="5" name="cf-message" id="cf-message" placeholder="Your Message"></textarea>
 
-                    <label for="cf-message" className="webform-label">Message</label>
+                    <label htmlFor="cf-message" className="webform-label">Message</label>
                 </div>
 
                 <button type="submit" className="form-control" id="submit-button" name="submit">Send</button>
