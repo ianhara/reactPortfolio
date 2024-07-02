@@ -28,9 +28,14 @@ function Navbar(){
                     <li className="nav-item">
                         <a href="#contact" className="nav-link smoothScroll">Contact</a>
                     </li>
+                    
                 </ul>
-
+    
+                <div className="mt-lg-0 mt-3 mb-4 mb-lg-0">
+                    <a href="" className="custom-btn btn" download>Download CV</a>
+                </div>
             </div>
+            
 
         </div>
     </nav>

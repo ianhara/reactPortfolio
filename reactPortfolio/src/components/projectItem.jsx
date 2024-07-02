@@ -19,11 +19,11 @@ const testimonialsInfoStyle = {
     display: 'flex',
     flexDirection: 'column',
     textAlign: 'center'
-};
+}
 
-const imageStyle = {z
+const imageStyle = {
     margin: 'auto',
     maxWidth: 500
-};
+}
 
 export default ProjectItem;

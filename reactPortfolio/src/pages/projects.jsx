@@ -1,11 +1,18 @@
 import ProjectItem from '../components/projectItem'
-
+//find a way to bring back the carousel
 const projectItems = [
+    {
+        imageSrc: "images/recipe-roamer.png",
+        header: "Recipe Roamer",
+        subheader: "A unique recipe creation project",
+        text: "Recipe roamer is a tool to create a recipe from odd ingredients you enter as well as locate specific foods.",
+        link: "https://octozek.github.io/RecipeRoamer/"
+    },
     {
         imageSrc: "images/weather-forecast.png",
         header: "Weather Forecast",
-        subheader: "",
-        text: "This project displays my ability to use CSS, API's, and simple javascript to display the weather",
+        subheader: "Quick forecasting tool using city and state",
+        text: "This beginning stage project displays my ability to use CSS, API's, and simple javascript to display the weather",
         link:"https://ianhara.github.io/Weather/"
     },
     {
@@ -15,15 +22,12 @@ const projectItems = [
         text: "leveraging mysql for database users can log in and view their profile and vehicles with services and appointment times",
         link: "https://e-auto-care-6acb9e4162bf.herokuapp.com/"
     },
-    {
-        imageSrc: "images/testimonials/testimonial-image03.jpg",
-        header: "Marie",
-        subheader: "Marketing Consultant",
-        text: "Sed ut perspiciatis unde omnis iste natus error sit voluptatem."
-    },
-    // { imageSrc: , header: , subheader: , text: },
-    // { imageSrc: , header: , subheader: , text: },
-    // { imageSrc: , header: , subheader: , text: },
+    // { imageSrc: "", 
+    //     header:"" , 
+    //     subheader:"" , 
+    //     text: "",
+    // link: ""},
+ 
 ]
 
 

@@ -5,7 +5,7 @@ function Contact(){
         <div className="row">
 
           <div className="col-lg-6 col-md-6 col-12">
-            <form action="#" method="get" className="contact-form webform"  role="form">
+            <form action="#" method="post" className="contact-form webform"  role="form" data-netlify="true">
                 
                 <div className="form-group d-flex flex-column-reverse">
                     <input type="text" className="form-control" name="cf-name" id="cf-name" placeholder="Your Name"/>
@@ -41,15 +41,8 @@ function Contact(){
                     </a>
                 </p>
 
-                <ul className="social-links mt-2">
-    <li><a href="https://fb.com/tooplate" rel="noopener" className="fab fa-facebook"></a></li>
-    <li><a href="#" rel="noopener" className="fab fa-twitter"></a></li>
-    <li><a href="#" rel="noopener" className="fab fa-instagram"></a></li>
-    <li><a href="https://www.linkedin.com/in/ian-h-62737230a/" rel="noopener" className="fab fa-linkedin"></a></li>
-    <li><a href="#" rel="noopener" className="fab fa-youtube"></a></li>
-</ul>
-
-              <p className="copyright-text mt-5 pt-3">Copyright &copy; 2020 Ian Resume Page</p>
+                
+            
                 
                 
             </div>
