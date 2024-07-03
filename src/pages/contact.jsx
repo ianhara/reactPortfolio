@@ -5,7 +5,7 @@ function Contact(){
         <div className="row">
 
           <div className="col-lg-6 col-md-6 col-12">
-            <form action="#" method="post" className="contact-form webform"  role="form" data-netlify="true">
+            <form action="https://formspree.io/f/meojqzjd" method="post" className="contact-form webform"  role="form" data-netlify="true">
                 
                 <div className="form-group d-flex flex-column-reverse">
                     <input type="text" className="form-control" name="cf-name" id="cf-name" placeholder="Your Name"/>
